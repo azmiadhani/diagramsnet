@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T11:26:20.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hiFoi_xXwiTyKBJg1g9U" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T11:28:48.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="LvP4B__UnxUZumCDex78" version="13.6.10" type="github">
   <diagram id="Y9010rjhHX0S4zASnDxG" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,11 +37,14 @@
         <mxCell id="siVC5lCV3sn8AWaLF12j-5" value="Memeriksa keaslian foto selfie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-11">
           <mxGeometry x="1300" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="siVC5lCV3sn8AWaLF12j-26" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="uTSD9KSHE5aOFEoIxFq5-11" source="siVC5lCV3sn8AWaLF12j-7" target="siVC5lCV3sn8AWaLF12j-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-7" value="Asli?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-11">
           <mxGeometry x="1460" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-11">
-          <mxGeometry x="1590" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1700" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-13" value="Aplikasi" style="swimlane;startSize=20;horizontal=0;" parent="uTSD9KSHE5aOFEoIxFq5-8" vertex="1">
           <mxGeometry x="20" y="320" width="2030" height="160" as="geometry" />
@@ -56,7 +59,7 @@
           <mxGeometry x="780" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-9" value="Menghapus suara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-13">
-          <mxGeometry x="1440" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-21" value="Menutup sesi pemungutan suara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-13">
           <mxGeometry x="1140" y="50" width="120" height="60" as="geometry" />
@@ -123,8 +126,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siVC5lCV3sn8AWaLF12j-18" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uTSD9KSHE5aOFEoIxFq5-8" source="siVC5lCV3sn8AWaLF12j-7" target="siVC5lCV3sn8AWaLF12j-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="siVC5lCV3sn8AWaLF12j-18" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uTSD9KSHE5aOFEoIxFq5-8" source="siVC5lCV3sn8AWaLF12j-7" target="siVC5lCV3sn8AWaLF12j-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uTSD9KSHE5aOFEoIxFq5-8" source="siVC5lCV3sn8AWaLF12j-1" target="siVC5lCV3sn8AWaLF12j-23">
           <mxGeometry relative="1" as="geometry">
