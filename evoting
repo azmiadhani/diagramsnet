@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T11:39:10.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="M92DLIgKErIq3BzmohT4" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T11:41:09.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eHk6jtHtsDUGl06ery7F" version="13.6.10" type="github">
   <diagram id="Y9010rjhHX0S4zASnDxG" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-8" value="E-Voting" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="3040" height="480" as="geometry" />
+          <mxGeometry x="80" y="40" width="2720" height="480" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-10" value="Mahasiswa" style="swimlane;startSize=20;horizontal=0;" parent="uTSD9KSHE5aOFEoIxFq5-8" vertex="1">
-          <mxGeometry x="20" width="3020" height="160" as="geometry" />
+          <mxGeometry x="20" width="2700" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="uTSD9KSHE5aOFEoIxFq5-10" source="uTSD9KSHE5aOFEoIxFq5-15" target="uTSD9KSHE5aOFEoIxFq5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,8 +25,8 @@
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-28" value="Memilih Calon Ketua BEM" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-10" vertex="1">
           <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTSD9KSHE5aOFEoIxFq5-11" value="Me" style="swimlane;startSize=20;horizontal=0;" parent="uTSD9KSHE5aOFEoIxFq5-8" vertex="1">
-          <mxGeometry x="20" y="160" width="3020" height="160" as="geometry" />
+        <mxCell id="uTSD9KSHE5aOFEoIxFq5-11" value="KPU" style="swimlane;startSize=20;horizontal=0;" parent="uTSD9KSHE5aOFEoIxFq5-8" vertex="1">
+          <mxGeometry x="20" y="160" width="2700" height="160" as="geometry" />
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-1" value="Memasukkan kunci penutupan sesi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uTSD9KSHE5aOFEoIxFq5-11">
           <mxGeometry x="980" y="50" width="120" height="60" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="2220" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-13" value="Aplikasi" style="swimlane;startSize=20;horizontal=0;" parent="uTSD9KSHE5aOFEoIxFq5-8" vertex="1">
-          <mxGeometry x="20" y="320" width="3020" height="160" as="geometry" />
+          <mxGeometry x="20" y="320" width="2700" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-18" value="Berhasil Login?" style="rhombus;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-13" vertex="1">
           <mxGeometry x="240" y="40" width="80" height="80" as="geometry" />
@@ -170,8 +170,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1140" y="240" />
-              <mxPoint x="1140" y="310" />
-              <mxPoint x="1000" y="310" />
+              <mxPoint x="1140" y="300" />
+              <mxPoint x="1000" y="300" />
               <mxPoint x="1000" y="400" />
             </Array>
           </mxGeometry>
@@ -197,8 +197,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1860" y="240" />
-              <mxPoint x="1860" y="315" />
-              <mxPoint x="1720" y="315" />
+              <mxPoint x="1860" y="300" />
+              <mxPoint x="1720" y="300" />
               <mxPoint x="1720" y="400" />
             </Array>
           </mxGeometry>
@@ -224,8 +224,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2380" y="240" />
-              <mxPoint x="2380" y="315" />
-              <mxPoint x="2220" y="315" />
+              <mxPoint x="2380" y="300" />
+              <mxPoint x="2220" y="300" />
               <mxPoint x="2220" y="400" />
             </Array>
           </mxGeometry>
