@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T02:05:33.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="OktHHP41jP0QlUfsZTIt" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:38:38.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="30nz52CRiujT4YlxZgiF" version="13.7.7" type="github" pages="2">
   <diagram id="hA4OvefyxU2fDrrK9HG9" name="PEMIRA Daring">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2RkuNy2uRxmY2sRhfbGU-0" />
         <mxCell id="2RkuNy2uRxmY2sRhfbGU-1" parent="2RkuNy2uRxmY2sRhfbGU-0" />
@@ -33,20 +33,20 @@
         <mxCell id="u2itA7ckk2mUKC-kLO4N-0" value="Pengecekan Suara" style="rounded=0;whiteSpace=wrap;html=1;" parent="eUXg6LyDUT4Ow3ZQFJBP-0" vertex="1">
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KCLVoArVDi_3-XCoktsQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eUXg6LyDUT4Ow3ZQFJBP-0" source="u2itA7ckk2mUKC-kLO4N-2" target="KCLVoArVDi_3-XCoktsQ-0">
+        <mxCell id="KCLVoArVDi_3-XCoktsQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="eUXg6LyDUT4Ow3ZQFJBP-0" source="u2itA7ckk2mUKC-kLO4N-2" target="KCLVoArVDi_3-XCoktsQ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2itA7ckk2mUKC-kLO4N-2" value="Penghitungan Suara" style="rounded=0;whiteSpace=wrap;html=1;" parent="eUXg6LyDUT4Ow3ZQFJBP-0" vertex="1">
           <mxGeometry x="730" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KCLVoArVDi_3-XCoktsQ-0" value="Selesai" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="eUXg6LyDUT4Ow3ZQFJBP-0">
+        <mxCell id="KCLVoArVDi_3-XCoktsQ-0" value="Selesai" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="eUXg6LyDUT4Ow3ZQFJBP-0" vertex="1">
           <mxGeometry x="890" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Y9010rjhHX0S4zASnDxG" name="Pemilihan Paslon">
-    <mxGraphModel dx="723" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-15" value="Mulai" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="uTSD9KSHE5aOFEoIxFq5-10" vertex="1">
           <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTSD9KSHE5aOFEoIxFq5-16" value="Mahasiswa Login" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-10" vertex="1">
+        <mxCell id="uTSD9KSHE5aOFEoIxFq5-16" value="Mahasiswa Login Menggunakan username dan password simari" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-10" vertex="1">
           <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-22" value="Mengambil Selfie" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-10" vertex="1">
@@ -104,7 +104,7 @@
         <mxCell id="uTSD9KSHE5aOFEoIxFq5-24" value="Selfie Terverifikasi?" style="rhombus;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-13" vertex="1">
           <mxGeometry x="440" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uTSD9KSHE5aOFEoIxFq5-29" value="Menyimpan foto selfie &amp;amp; pilihan dalam bentuk terenkripsi" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-13" vertex="1">
+        <mxCell id="uTSD9KSHE5aOFEoIxFq5-29" value="Menyimpan foto selfie, KTM dan&amp;nbsp; pilihan dalam bentuk terenkripsi" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-13" vertex="1">
           <mxGeometry x="780" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siVC5lCV3sn8AWaLF12j-9" value="Menghapus suara" style="rounded=0;whiteSpace=wrap;html=1;" parent="uTSD9KSHE5aOFEoIxFq5-13" vertex="1">
