@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T17:38:54.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="XXorpYGha5So_l6Q75wz" version="14.5.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-06T17:39:58.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="kOctFRuYNllwQk3CL0Jj" version="14.5.7" type="github" pages="3">
   <diagram id="fRJNakTK3eUj4axPwHg9" name="Activity Diagram">
     <mxGraphModel dx="1019" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,12 +96,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S2c9eHOm1-RKwiG87P97" name="Mengelola role user">
-    <mxGraphModel dx="2911" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ayXi646i6e-VYvCoz6-G-0" />
         <mxCell id="ayXi646i6e-VYvCoz6-G-1" parent="ayXi646i6e-VYvCoz6-G-0" />
         <mxCell id="eCpT4NaJSWNiMCN_z98M-0" value="Mengelola role user" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" parent="ayXi646i6e-VYvCoz6-G-1" vertex="1">
-          <mxGeometry x="40" y="120" width="800" height="840" as="geometry" />
+          <mxGeometry x="390" y="110" width="800" height="840" as="geometry" />
         </mxCell>
         <mxCell id="eCpT4NaJSWNiMCN_z98M-1" value="Superadmin" style="swimlane;html=1;startSize=20;fontFamily=Times New Roman;fontSize=13;" parent="eCpT4NaJSWNiMCN_z98M-0" vertex="1">
           <mxGeometry y="20" width="400" height="820" as="geometry" />
