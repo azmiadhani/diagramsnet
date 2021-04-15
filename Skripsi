@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T05:35:24.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Khjotis0tjlnZCh41DBd" version="14.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-15T05:39:17.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="gIRI6HTSgx2oQ7PCN0hs" version="14.6.0" type="github" pages="5">
   <diagram id="ZfjmTNEv4ZYsV-Suodzi" name="Page-5">
-    <mxGraphModel dx="1199" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-0" />
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-1" parent="qrinJ_KPJv7YCwDYAVfu-0" />
@@ -95,8 +95,11 @@
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-118" value="Menerima informasi" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;labelPosition=center;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
           <mxGeometry x="115" y="1345" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qrinJ_KPJv7YCwDYAVfu-120" value="Mengarahkan peserta untuk memasukkan kertas suara ke kotak suara" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-120" value="Mengarahkan peserta &lt;br&gt;untuk memasukkan kertas &lt;br&gt;suara ke kotak suara" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
           <mxGeometry x="40" y="1515" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-148" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="50.379999999999995" y="1520" width="16.25" height="11" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-14" value="Mahasiswa" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
           <mxGeometry x="50" y="50" width="280" height="1920" as="geometry" />
@@ -229,6 +232,24 @@
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-138" value="Menunggu arahan" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;align=right;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=timer;rounded=1;fontSize=11;labelPosition=left;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
           <mxGeometry x="115" y="1440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-142" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1080" width="16.25" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-143" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1170" width="16.25" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-144" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1260" width="16.25" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-145" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1350" width="16.25" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-146" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1600" width="16.25" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-147" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="52.5" y="1690" width="16.25" height="11" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-31" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qrinJ_KPJv7YCwDYAVfu-1" source="qrinJ_KPJv7YCwDYAVfu-34" target="qrinJ_KPJv7YCwDYAVfu-25">
           <mxGeometry width="100" relative="1" as="geometry">
