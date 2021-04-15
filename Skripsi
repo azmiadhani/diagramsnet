@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T05:39:17.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="gIRI6HTSgx2oQ7PCN0hs" version="14.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-15T05:39:32.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="IdMFsIDORb4DVZll47ia" version="14.6.0" type="github" pages="5">
   <diagram id="ZfjmTNEv4ZYsV-Suodzi" name="Page-5">
     <mxGraphModel dx="1698" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-0" />
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-1" parent="qrinJ_KPJv7YCwDYAVfu-0" />
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-2" value="Panitia Pemungutan Suara" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
-          <mxGeometry x="370" y="50" width="280" height="1920" as="geometry" />
+          <mxGeometry x="370" y="50" width="280" height="1870" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="qrinJ_KPJv7YCwDYAVfu-2" source="qrinJ_KPJv7YCwDYAVfu-24" target="qrinJ_KPJv7YCwDYAVfu-36">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry x="50.379999999999995" y="1520" width="16.25" height="11" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-14" value="Mahasiswa" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
-          <mxGeometry x="50" y="50" width="280" height="1920" as="geometry" />
+          <mxGeometry x="50" y="50" width="280" height="1870" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="qrinJ_KPJv7YCwDYAVfu-14" source="qrinJ_KPJv7YCwDYAVfu-15" target="qrinJ_KPJv7YCwDYAVfu-34">
           <mxGeometry relative="1" as="geometry" />
