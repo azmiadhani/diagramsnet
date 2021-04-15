@@ -1,14 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T03:17:09.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Mn2_MtZzMH6UdsMVCki6" version="14.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-15T03:23:46.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="iobHxjRP5Wc4RoNZZ_Lc" version="14.6.0" type="github" pages="5">
   <diagram id="ZfjmTNEv4ZYsV-Suodzi" name="Page-5">
-    <mxGraphModel dx="849" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-0" />
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-1" parent="qrinJ_KPJv7YCwDYAVfu-0" />
-        <mxCell id="qrinJ_KPJv7YCwDYAVfu-2" value="Lane" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
-          <mxGeometry x="40" y="40" width="280" height="710" as="geometry" />
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-2" value="Mahasiswa" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
+          <mxGeometry x="360" y="50" width="280" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="qrinJ_KPJv7YCwDYAVfu-4" value="Datang ke tempat pemilihan" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;labelPosition=center;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
           <mxGeometry x="115" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-8" value="Mengantri" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="60" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-9" value="Menyerahkan KTM ke panitia" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="60" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-10" value="Masuk ke bilik pencoblosan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="60" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-12" value="Mencoblos" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="60" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-13" value="Mencoblos" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-2">
+          <mxGeometry x="60" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-14" value="Mahasiswa" style="swimlane;startSize=20;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-1">
+          <mxGeometry x="50" y="50" width="280" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-15" value="Datang ke tempat pemilihan" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;labelPosition=center;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="115" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-16" value="Mengantri" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="60" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-17" value="Menyerahkan KTM ke panitia" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="60" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-18" value="Masuk ke bilik pencoblosan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="60" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-19" value="Mencoblos" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="60" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrinJ_KPJv7YCwDYAVfu-20" value="Mencoblos" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="qrinJ_KPJv7YCwDYAVfu-14">
+          <mxGeometry x="60" y="550" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
