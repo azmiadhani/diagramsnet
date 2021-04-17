@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T13:05:32.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="sfOdRpCH6H316Dj6B3vY" version="14.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-17T13:05:45.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ssNODduKp7hfQlyfD6R5" version="14.6.0" type="github" pages="6">
   <diagram id="ZfjmTNEv4ZYsV-Suodzi" name="Business Process">
     <mxGraphModel dx="1019" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1526,25 +1526,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-196" value="pilihan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="817" y="-307.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="817" y="-290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-197" value="pilihanNim" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="838" y="-340" width="70" height="17.5" as="geometry" />
+          <mxGeometry x="838" y="-322.5" width="70" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-198" value="pilihanId" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="917" y="-340" width="60.5" height="13.75" as="geometry" />
+          <mxGeometry x="917" y="-322.5" width="60.5" height="13.75" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-199" value="pilihanProdikode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="983.75" y="-337.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="983.75" y="-320" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-200" value="pilihanFotoBerkas" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="987.75" y="-277.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="987.75" y="-260" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-201" value="pilihanFoto" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="1090" y="-287.5" width="70.5" height="20" as="geometry" />
+          <mxGeometry x="1090" y="-270" width="70.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-202" value="pilihanFakkode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="1074.5" y="-322.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="1074.5" y="-305" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-218" value="memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
           <mxGeometry x="887.25" y="-157.5" width="120" height="60" as="geometry" />
@@ -1616,22 +1616,22 @@
           <mxGeometry x="1330" y="-67.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-328" value="pilihanPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="1179.5" y="-307.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="1179.5" y="-290" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-329" value="pilihanLatitude" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="710" y="-277.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="710" y="-260" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-330" value="pilihanLongitude" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="608.25" y="-287.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="608.25" y="-270" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-331" value="pilihanIsvalid" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="615.75" y="-326.25" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="615.75" y="-308.75" width="85" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-332" value="pilihanKandidatid" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="524.5" y="-307.5" width="110" height="20" as="geometry" />
+          <mxGeometry x="524.5" y="-290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-333" value="pilihanWaktumemilih" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="TpuX1958ZmgLH-nI6bZs-1">
-          <mxGeometry x="685.88" y="-340" width="148.25" height="17.5" as="geometry" />
+          <mxGeometry x="685.88" y="-322.5" width="148.25" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="TpuX1958ZmgLH-nI6bZs-340" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="TpuX1958ZmgLH-nI6bZs-1" source="TpuX1958ZmgLH-nI6bZs-201" target="TpuX1958ZmgLH-nI6bZs-201">
           <mxGeometry relative="1" as="geometry" />
