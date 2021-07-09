@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T03:03:03.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5Avet0A7IxeQJOhqlzzY" version="14.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-09T03:07:07.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="A0boovfLKaVL8AmheW-F" version="14.8.1" type="github" pages="8">
   <diagram id="ZfjmTNEv4ZYsV-Suodzi" name="Business Process">
     <mxGraphModel dx="1019" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2702,8 +2702,8 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-285" value="beritaTanggal" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="635.75" y="107.49999999999999" width="85" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-286" value="beritaPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
-          <mxGeometry x="590.25" y="122.5" width="84.5" height="20" as="geometry" />
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-286" value="beritaPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=1;perimeterSpacing=1;shadow=0;sketch=0;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+          <mxGeometry x="590.25" y="125.29" width="84.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-287" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dFgCEkqYpw0rYQIbo-WA-1" source="dFgCEkqYpw0rYQIbo-WA-296" target="dFgCEkqYpw0rYQIbo-WA-297">
           <mxGeometry relative="1" as="geometry" />
@@ -2757,8 +2757,8 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-302" value="timelineTanggalSelesai" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="940" y="51.25" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-303" value="timelinePeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
-          <mxGeometry x="735.75" y="100" width="100" height="20" as="geometry" />
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-303" value="timelinePeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+          <mxGeometry x="750" y="102.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-304" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dFgCEkqYpw0rYQIbo-WA-1" source="dFgCEkqYpw0rYQIbo-WA-314" target="dFgCEkqYpw0rYQIbo-WA-315">
           <mxGeometry relative="1" as="geometry" />
@@ -2801,7 +2801,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-318" value="kandidatWakilpresiden" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="83.5" y="-29.37" width="142" height="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-319" value="kandidatPeriodeTahun" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-319" value="kandidatPeriodeTahun" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="83.5" y="-72.5" width="133" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-320" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dFgCEkqYpw0rYQIbo-WA-1" source="dFgCEkqYpw0rYQIbo-WA-331" target="dFgCEkqYpw0rYQIbo-WA-332">
@@ -2895,7 +2895,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-362" value="userUsername" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="-129.75" y="-49.99999999999997" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-363" value="userRole" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-363" value="userRole" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="-129.75" y="17.50000000000003" width="66.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-364" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dFgCEkqYpw0rYQIbo-WA-1" source="dFgCEkqYpw0rYQIbo-WA-369" target="dFgCEkqYpw0rYQIbo-WA-370">
@@ -2954,11 +2954,11 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-380" value="hak_akses" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="367.03" y="-12.499999999999972" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-381" value="role" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
-          <mxGeometry x="453.75" y="-58.74999999999997" width="30.5" height="20" as="geometry" />
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-381" value="role" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+          <mxGeometry x="459" y="-49.99999999999997" width="30.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-382" value="modul" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
-          <mxGeometry x="477.03" y="10.000000000000027" width="55.5" height="20" as="geometry" />
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-382" value="modul" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+          <mxGeometry x="482.53" y="1.2500000000000266" width="55.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-383" value="hak" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="484.25" y="-27.49999999999997" width="40.5" height="20" as="geometry" />
@@ -3016,9 +3016,9 @@
           <mxGeometry x="1010.25" y="-165" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-411" value="laporanId" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
-          <mxGeometry x="955.5" y="-182.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="953.25" y="-187.5" width="70" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-412" value="laporanPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-412" value="laporanPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="1030.25" y="-132.5" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-413" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dFgCEkqYpw0rYQIbo-WA-1" source="dFgCEkqYpw0rYQIbo-WA-415" target="dFgCEkqYpw0rYQIbo-WA-416">
@@ -3065,7 +3065,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-427" value="pbTanggal" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="1010.25" y="-76.25" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-428" value="pbPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-428" value="pbPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="1040.25" y="-16.25" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-429" value="pbTampil" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
@@ -3142,7 +3142,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-450" value="pilihan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="292.25" y="-277.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-451" value="pilihanNim" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-451" value="pilihanNim" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="313.25" y="-310" width="70" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-452" value="pilihanId" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
@@ -3231,7 +3231,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-484" value="memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="735.75" y="-56.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-485" value="pilihanPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-485" value="pilihanPeriode" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="654.75" y="-277.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-486" value="pilihanLatitude" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
@@ -3243,7 +3243,7 @@
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-488" value="pilihanIsvalid" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="91" y="-296.25" width="85" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="dFgCEkqYpw0rYQIbo-WA-489" value="pilihanKandidatid" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
+        <mxCell id="dFgCEkqYpw0rYQIbo-WA-489" value="pilihanKandidatid" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
           <mxGeometry x="-0.25" y="-277.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFgCEkqYpw0rYQIbo-WA-490" value="pilihanWaktumemilih" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dFgCEkqYpw0rYQIbo-WA-1">
