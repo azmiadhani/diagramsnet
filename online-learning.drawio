@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T06:11:09.444Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cZnxFAWTuoghdGj7RLOk" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T06:12:03.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="u9wP94_dZjoExXf__7D8" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1558" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1086,10 +1086,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-14" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1390" width="30" height="60" as="geometry" />
+          <mxGeometry x="260" y="1390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-39" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1180" width="520" height="570" as="geometry">
+          <mxGeometry x="-270" y="1180" width="470" height="570" as="geometry">
             <mxRectangle x="-170" y="1180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1100,7 +1100,7 @@
           <mxGeometry x="90" y="110" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-10" value="Read Landing Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
-          <mxGeometry x="75" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-13" value="My Course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
           <mxGeometry x="345" y="10" width="70" height="50" as="geometry" />
@@ -1121,19 +1121,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-23" value="Add" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
-          <mxGeometry x="245" y="130" width="50" height="30" as="geometry" />
+          <mxGeometry x="225" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zB2zwiHP_dlj_vmlyCcP-39" source="zB2zwiHP_dlj_vmlyCcP-26" target="zB2zwiHP_dlj_vmlyCcP-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-26" value="Update" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
-          <mxGeometry x="255" y="170" width="50" height="30" as="geometry" />
+          <mxGeometry x="237.5" y="160" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zB2zwiHP_dlj_vmlyCcP-39" source="zB2zwiHP_dlj_vmlyCcP-29" target="zB2zwiHP_dlj_vmlyCcP-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-29" value="Read" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
-          <mxGeometry x="295" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="280" y="190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zB2zwiHP_dlj_vmlyCcP-39" source="zB2zwiHP_dlj_vmlyCcP-31" target="zB2zwiHP_dlj_vmlyCcP-18">
           <mxGeometry relative="1" as="geometry" />
@@ -1157,7 +1157,7 @@
           <mxGeometry x="352.5" y="285" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-56" value="Checkout &amp;amp; Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zB2zwiHP_dlj_vmlyCcP-39">
-          <mxGeometry x="292.5" y="330" width="85" height="40" as="geometry" />
+          <mxGeometry x="300" y="325" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zB2zwiHP_dlj_vmlyCcP-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zB2zwiHP_dlj_vmlyCcP-39" source="zB2zwiHP_dlj_vmlyCcP-58" target="zB2zwiHP_dlj_vmlyCcP-106">
           <mxGeometry relative="1" as="geometry" />
