@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T06:33:34.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LT8nSt400YzU4_wySNyM" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-18T06:44:49.340Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="R6skwqeU3mhuX1lsqVjI" version="20.4.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD">
     <mxGraphModel dx="1473" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -213,7 +213,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSF6GhgpEOpoTIe3DIja-63" value="summary_desc string NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="tSF6GhgpEOpoTIe3DIja-61" vertex="1">
+        <mxCell id="tSF6GhgpEOpoTIe3DIja-63" value="description string NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="tSF6GhgpEOpoTIe3DIja-61" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
