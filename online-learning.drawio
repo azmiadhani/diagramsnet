@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T01:20:33.529Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5ZsdsSgU4NAGXEpSFTkj" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-18T01:21:03.279Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="haRqeXdOUNOoB9KvWZso" version="20.4.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD">
-    <mxGraphModel dx="1301" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2303" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-79" value="courses_tags" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="590" width="250" height="130" as="geometry" />
+          <mxGeometry x="500" y="590" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-80" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="tSF6GhgpEOpoTIe3DIja-79" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-86" value="categories" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="770" width="250" height="100" as="geometry" />
+          <mxGeometry x="500" y="770" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="tSF6GhgpEOpoTIe3DIja-86" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -475,7 +475,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-115" value="transactions" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="70" width="250" height="160" as="geometry" />
+          <mxGeometry x="500" y="70" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-116" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="tSF6GhgpEOpoTIe3DIja-115" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -880,6 +880,7 @@
             <mxPoint x="410" y="790" as="sourcePoint" />
             <mxPoint x="470" y="720" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="480" y="850" />
               <mxPoint x="470" y="860" />
               <mxPoint x="480" y="900" />
               <mxPoint x="490" y="870" />
@@ -923,7 +924,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t6Ex6y68rE9OpWCrkbIS-1" value="tags" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="468" width="250" height="100" as="geometry" />
+          <mxGeometry x="500" y="468" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="t6Ex6y68rE9OpWCrkbIS-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="t6Ex6y68rE9OpWCrkbIS-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -956,6 +957,8 @@
             <mxPoint x="440" y="1145" as="sourcePoint" />
             <mxPoint x="510" y="765" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="460" y="710" />
+              <mxPoint x="450" y="740" />
               <mxPoint x="460" y="810" />
               <mxPoint x="470" y="760" />
               <mxPoint x="520" y="891" />
@@ -1015,6 +1018,8 @@
             <mxPoint x="410" y="565.5000000000001" as="sourcePoint" />
             <mxPoint x="470" y="665" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="440" y="740" />
+              <mxPoint x="430" y="750" />
               <mxPoint x="440" y="830" />
               <mxPoint x="450" y="420" />
               <mxPoint x="460" y="650" />
