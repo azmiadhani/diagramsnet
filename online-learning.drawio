@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T08:07:18.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rbplVtQwGOj6fEO8WM79" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-27T14:42:48.719Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ElTwRLzR2QIwAqQZsWrR" version="20.5.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD">
-    <mxGraphModel dx="1558" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1392" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -726,7 +726,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSF6GhgpEOpoTIe3DIja-196" value="gifts_users" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="tSF6GhgpEOpoTIe3DIja-196" value="user_gifts" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="880" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tSF6GhgpEOpoTIe3DIja-197" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="tSF6GhgpEOpoTIe3DIja-196" vertex="1">
