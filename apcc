@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T07:54:45.657Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mLnPJ2jJpWU5QIQQ1VHn" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T08:13:18.249Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4Pj0f2YOIvJGexv3jb6M" version="20.8.18" type="github">
   <diagram name="Page-1" id="P5HqkL5mIomIwJFcDfdD">
-    <mxGraphModel dx="653" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
         <mxCell id="dIxLk95ANGLBPOiZZi1U-14" value="Consumer uses &lt;br&gt;credit card to &lt;br&gt;make purchase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIxLk95ANGLBPOiZZi1U-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-door-open-128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="425" y="310" width="98" height="98" as="geometry" />
-        </mxCell>
         <mxCell id="dIxLk95ANGLBPOiZZi1U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" target="dIxLk95ANGLBPOiZZi1U-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="320" as="sourcePoint" />
@@ -51,6 +48,40 @@
               <mxPoint x="400" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414" y="310" width="120" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-door-open-128.png;fontColor=#000000;" vertex="1" parent="dIxLk95ANGLBPOiZZi1U-27">
+          <mxGeometry x="11" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-26" value="Payment Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="dIxLk95ANGLBPOiZZi1U-27">
+          <mxGeometry y="98" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="605" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="320" />
+              <mxPoint x="580" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="596.05" y="320" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-37" value="Acquirer Bank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="dIxLk95ANGLBPOiZZi1U-39">
+          <mxGeometry y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-38" value="" style="group" vertex="1" connectable="0" parent="dIxLk95ANGLBPOiZZi1U-39">
+          <mxGeometry x="3.9500000000000455" width="92.09000000000003" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/02.Shop-128.png" vertex="1" parent="dIxLk95ANGLBPOiZZi1U-38">
+          <mxGeometry x="62.09000000000003" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIxLk95ANGLBPOiZZi1U-31" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#000000;labelBackgroundColor=#FFFDFC;" vertex="1" parent="dIxLk95ANGLBPOiZZi1U-38">
+          <mxGeometry y="10" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
