@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T07:51:29.725Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qLuH1nMK5xGQ3TFBQJUD" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-20T08:32:29.203Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QPmtLmZhM_5kqQxUlIQH" version="20.8.20" type="github" pages="3">
   <diagram name="Credit Card Processing Flow" id="P5HqkL5mIomIwJFcDfdD">
     <mxGraphModel dx="1053" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2J3hpc8EQ2vrHJ7OOsue" name="APCC Operating Model">
-    <mxGraphModel dx="378" dy="119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,91 @@
         </mxCell>
         <mxCell id="KkAneYJbFzFFLPLqNU94-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Capture/Credit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="142.5" y="465" width="185" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Authentication&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1182" y="69" width="186" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="949" y="132" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-33" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="KkAneYJbFzFFLPLqNU94-32">
+          <mxGeometry x="25" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-34" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="KkAneYJbFzFFLPLqNU94-32">
+          <mxGeometry x="11" y="10" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1209" y="132" width="120" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-door-open-128.png;fontColor=#000000;" vertex="1" parent="KkAneYJbFzFFLPLqNU94-35">
+          <mxGeometry x="11" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-37" value="APCC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="KkAneYJbFzFFLPLqNU94-35">
+          <mxGeometry x="35" y="100" width="51" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1484" y="139" width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-39" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cli;fillColor=#444444;gradientColor=none;points=[[0,0.33,0,-12,0],[0,0.7,0,-12,0],[0.145,0.21,0,0,0],[0.5,1,0,0,0],[0.57,0,0,0,0],[1,0.215,0,0,0],[1,0.5,0,0,0],[1,0.635,0,0,0]];" vertex="1" parent="KkAneYJbFzFFLPLqNU94-38">
+          <mxGeometry x="23" width="72" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-40" value="3rd Party" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="KkAneYJbFzFFLPLqNU94-38">
+          <mxGeometry x="25" y="88" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1226" y="199.46" as="sourcePoint" />
+            <mxPoint x="1040" y="199.46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1115" y="199.46" />
+              <mxPoint x="1115" y="199.46" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="169.46" as="sourcePoint" />
+            <mxPoint x="1226" y="169.46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1135" y="169.46" />
+              <mxPoint x="1135" y="169.46" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1498" y="199.46" as="sourcePoint" />
+            <mxPoint x="1312" y="199.46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1387" y="199.46" />
+              <mxPoint x="1387" y="199.46" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1312" y="169.46" as="sourcePoint" />
+            <mxPoint x="1498" y="169.46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1407" y="169.46" />
+              <mxPoint x="1407" y="169.46" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1, 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="123" width="48" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-51" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="208" width="28" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-52" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="208" width="28" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-53" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="134" width="28" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAneYJbFzFFLPLqNU94-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. request enrollment check&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. pass back access control server (ACS) url&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. redirect user o ACS url&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. forward Payer Authentication Response (PARes) that user got after&amp;nbsp;&lt;br&gt;authenticating themselves to ACS&lt;br&gt;5. validate 3ds result&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="949" y="275" width="576" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
